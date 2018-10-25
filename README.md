@@ -1,4 +1,4 @@
-# test-project
+# vue-i18n-demo
 
 > A Vue.js project
 
